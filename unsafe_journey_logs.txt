@@ -1,0 +1,48 @@
+unsafe journey detected : yes
+time stamp : 2026-03-06 20:42:03
+how much time : 14 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-06 20:42:20
+how much time : 16 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:29:24
+how much time : 22 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:30:32
+how much time : 21 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:31:05
+how much time : 24 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:33:29
+how much time : 10 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:33:41
+how much time : 10 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:34:17
+how much time : 26 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-03-30 13:34:34
+how much time : 12 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-04-23 06:35:41
+how much time : 12 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-04-23 11:33:02
+how much time : 23 sec
+--------------------------
+unsafe journey detected : yes
+time stamp : 2026-04-23 12:20:01
+how much time : 32 sec
+--------------------------
